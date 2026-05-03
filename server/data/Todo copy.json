@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Groceries",
+    "description": "I need to do Groceries",
+    "status": "pending",
+    "created_at": "2026/05/03 12:00:34",
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Banana",
+        "description": "Buy raw bananas",
+        "due_date": "2026/05/03",
+        "priority": "low",
+        "status": "pending",
+        "created_at": "2026/05/03 12:00:34"
+      },
+      {
+        "id": 2,
+        "title": "Chicken",
+        "description": "Buy chicken drumsticks for dinner",
+        "due_date": "2026/05/03",
+        "priority": "medium",
+        "status": "pending",
+        "created_at": "2026/05/03 12:00:34"
+      },
+      {
+        "id": 3,
+        "title": "Cookies",
+        "description": "Buy chocochip cookies",
+        "due_date": "2026/05/03",
+        "priority": "low",
+        "status": "in_progress",
+        "created_at": "2026/05/03 12:00:34"
+      },
+      {
+        "id": 4,
+        "title": "Rice",
+        "description": "Buy Basmati Rice for Biryani",
+        "due_date": "2026/05/03",
+        "priority": "high",
+        "status": "completed",
+        "created_at": "2026/05/03 12:00:34"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Packing",
+    "description": "I have to pack for my upcoming Bali trip",
+    "due_date": "2026/05/02",
+    "status": "in_progress",
+    "created_at": "2026/05/03 12:00:34"
+  },
+  {
+    "id": 3,
+    "title": "Reading",
+    "description": "I have read 2 volums of the Book Twilight. Now I will start volume 3.",
+    "due_date": "2026/05/01",
+    "status": "completed",
+    "created_at": "2026/05/03 12:00:34"
+  },
+  {
+    "title": "testty",
+    "description": "gtest decc",
+    "due_date": "2026/05/09",
+    "id": 4,
+    "status": "pending",
+    "created_at": "2026/05/03 12:00:34"
+  },
+  {
+    "title": "new taskkk",
+    "description": "kj;m mn k.,mnkn",
+    "due_date": "2026/05/06",
+    "id": 5,
+    "status": "pending",
+    "created_at": "2026/05/02 15:17:25"
+  }
+]
