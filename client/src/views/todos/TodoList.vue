@@ -37,6 +37,7 @@
               <span v-if="todo.due_date" class="rounded bg-slate-100 px-2 py-1">
                 Due {{ todo.due_date}}
               </span>
+              
               <span class="rounded bg-slate-100 px-2 py-1">
                 {{ todo.status || "pending" }}
               </span>
