@@ -25,7 +25,7 @@ Start the application
 
 ```nodemon```
 
-Go to Postman *http://localhost:8000/todos* to verify the API is working. 
+API URL: *http://localhost:8000/*. 
 
 
 # Assignment
