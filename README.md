@@ -1,6 +1,6 @@
 # Development
-## Running the Application
-[Node](https://nodejs.org/en/) must be installed on your machine.
+## Running the Frontend Application
+[VueJS].
 
 Install dependencies
 
@@ -8,9 +8,25 @@ Install dependencies
 
 Start the application 
 
-```npm run start```
+```npm run dev```
 
 Go to *http://localhost:3000/todos* to verify the application is working. 
+
+
+## Running the Frontend Application
+[NodeJS].
+
+
+Install dependencies
+
+```npm i```
+
+Start the application 
+
+```nodemon```
+
+Go to Postman *http://localhost:8000/todos* to verify the API is working. 
+
 
 # Assignment
 
